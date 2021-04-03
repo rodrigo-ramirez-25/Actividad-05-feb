@@ -1,0 +1,85 @@
+header{
+    width: 900px;
+    height: 200px;
+    margin: auto;    
+}
+.estilo1{
+    width: 100px;
+    height: 200px;
+    background-color: rgb(85, 85, 250);
+    float: left;
+}
+.estilo2{
+    width: 100px;
+    height: 200px;
+    background-color: red;
+    float: left;
+}
+.estilo3{
+    width: 100px;
+    height: 200px;
+    background-color: rgb(173, 169, 169);
+    float: left;
+}
+nav{
+    width: 900px;
+    height: 300px;    
+    margin: auto;
+}
+#negro{
+    width: 600px;
+    height: 300px;
+    background-color: black;
+    float: left;
+}
+#naranja{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(241, 191, 25);
+    float: left;
+}
+main{
+    width: 900px;
+    height: 400px;        
+    margin: auto;
+}
+#derecho{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    float: left;  
+}
+#izquierdo{
+    width: 500px;
+    height: 400px;
+    background-color:rgb(89, 122, 214);
+    float: left;  
+}
+aside{
+    width: 900px;
+    height: 200px;
+    background-color: rgb(143, 179, 90);
+    margin: auto;
+}
+section{
+    width: 900px;
+    height: 150px;
+    margin: auto;
+}
+.naranja{
+    width: 300px;
+    height: 150px;
+    background-color:rgb(241, 191, 25);
+    float: left;
+}
+#centro{
+    width: 300px;
+    height: 150px;
+    background-color: black;
+    float: left;
+}
+footer{
+    width: 900px;
+    height: 200px;
+    margin: auto;
+}

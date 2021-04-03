@@ -1,0 +1,65 @@
+.centrar{
+	align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-family: Arial black;
+}
+header{
+    width: 1000px;
+    background-color:yellow;
+    margin: auto;
+    height: 350px;
+    text-align: center;
+}
+nav{
+    width: 1000px;  
+    height: 125px;   
+    background-color: rgb(61, 41, 15); 
+    text-align: center;
+    margin: auto;
+}
+#contenedor{
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(74, 109, 22);
+    margin: auto; 
+}
+footer{
+    width: 1000px;
+    height: 50px;     
+    background-color: black;
+    margin: auto;
+    float: center;
+    text-align: center;
+    color: white;
+}
+section{
+    width: 25%;
+    height: 125px;
+    margin: auto;
+    float: right; 
+    text-align: center;
+    
+}
+.naranja{
+    background-color:orange;
+    float: left;
+}
+.gris{
+    background-color: gray;
+    float: left;
+}
+.verde{
+    width: 250px;
+    height: 500px;
+    background-color: rgb(85, 187, 85);
+    float: left;
+    text-align: center;
+}
+#blanco{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    float: left;
+    text-align: center;
+}

@@ -1,0 +1,74 @@
+.centrar{
+	align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-family: Arial black;
+    padding: 125px 0;
+}
+#contenedor{
+    display: grid;
+    grid-template-columns: 1f 1f 1f 1f;
+    grid-template-rows: 350px 125px 500px 50px ;
+    border: 1px black solid;
+    text-align: center;
+}
+header{
+    grid-column: 1 / span 4;
+    background-color: yellow;
+}
+.menu1{
+    grid-column: 1 / span 1;     
+    background-color: rgb(247, 96, 70);
+    font-size: 30px;
+    font-family: Arial black;
+    padding: 7% 0;
+}
+.menu2{
+    grid-column: 2 / span 1;   
+    background-color: rgb(104, 101, 100);
+    font-size: 30px;
+    font-family: Arial black;
+    padding: 7% 0;
+}
+.menu3{
+    grid-column: 3 / span 1;    
+    background-color:rgb(247, 96, 70);
+    font-size: 30px;
+    font-family: Arial black;
+    padding: 7% 0;
+}
+.menu4{
+    grid-column: 4 / span 1;
+    background-color:  rgb(104, 101, 100);
+    font-size: 30px;
+    font-family: Arial black;
+    padding: 7% 0;
+}
+section{
+    grid-column: 1 / span 1;
+    background-color: rgb(189, 224, 118);
+    font-size: 30px;
+    font-family: Arial black;
+    padding: 45% 0;
+}
+article{
+    grid-column: 2 / span 2;
+    background-color:white;
+    font-size: 30px;
+    font-family: Arial black;
+    padding: 24% 0;
+}
+aside{
+    grid-column: 4 / span 1;
+    background-color: rgb(189, 224, 118);
+    font-size: 30px;
+    font-family: Arial black;
+    padding: 45% 0;
+}
+footer{
+    grid-column: 1 / span 4;
+    background-color: rgb(17, 17, 16);
+    color: white;
+    font-size: 30px;
+    font-family: Arial black;
+}

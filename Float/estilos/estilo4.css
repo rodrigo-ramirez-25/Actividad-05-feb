@@ -1,0 +1,64 @@
+header{
+    width: 1200px;
+    height: 200px;
+    margin: auto;
+    background-color: black;
+}
+nav{
+    width: 1200px;
+    height: 200px;
+    margin: auto;    
+}
+.amarillo{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(247, 194, 21);
+    float: left; 
+}
+#azul{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(88, 88, 221);
+    float: left; 
+}
+main{
+    width: 1200px;
+    height: 650px;
+    margin: auto;  
+}
+#estilo1{
+    width: 600px;
+    height: 150px;
+    background-color:rgb(190, 8, 8);
+    float: left; 
+}
+#estilo2{
+    width: 600px;
+    height: 150px;
+    background-color:rgb(140, 252, 145);
+    float: left; 
+}
+.estilo1{
+    width: 1000px;
+    height: 300px;
+    background-color:rgb(238, 151, 79);
+    float: left; 
+}
+.estilo2{
+    width: 200px;
+    height: 300px;
+    background-color:rgb(206, 7, 7);
+    float: left; 
+}
+aside{
+    width: 1200px;
+    height: 200px;
+    background-color: black;
+    float: left;
+}
+footer{
+    width: 1200px;
+    height: 300px;
+    margin: auto;    
+}
+

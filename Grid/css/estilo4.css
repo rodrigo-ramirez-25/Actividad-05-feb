@@ -1,0 +1,56 @@
+#contenedor{
+    display: grid;
+    grid-template-columns: 1f 1f 1f 1f 1f 1f;
+    grid-template-rows: 200px 250px 150px 300px 200px 300px;
+    border: 1px burlywood solid;
+}
+
+header{
+    grid-column: 1 / span 6;
+    background-color: black;
+}
+
+.n1{
+    grid-column: 1 / span 2;
+    background-color: orange;
+}
+.n2{
+    grid-column: 3 / span 2;
+    background-color: rgb(141, 71, 253);
+}
+.n3{
+    grid-column: 5 / span 2;
+    background-color: orange;
+}
+
+.art1{
+    grid-column: 1 / span 3;
+    background-color: brown;
+}
+.art2{
+    grid-column: 4 / span 3;
+    background-color: rgb(117, 236, 123);
+}
+.chocolate{
+    grid-column: 1 / span 5;
+    background-color: chocolate;
+}
+.naranja{
+    grid-column: 6 / span 1;
+    background-color: coral;
+}
+
+aside{
+    grid-column: 1 / span 6;
+    background-color: black;
+}
+
+
+.nara{
+    grid-column: 1 / span 1;
+    background-color: coral;
+}
+.choco{
+    grid-column: 2 / span 5;
+    background-color: chocolate;
+}

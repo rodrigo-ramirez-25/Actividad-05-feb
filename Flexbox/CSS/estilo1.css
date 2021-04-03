@@ -1,0 +1,63 @@
+.centrar{
+	display: flex;
+	align-items: center;
+    justify-content: center;
+}
+
+body{
+    margin: auto;
+    width: 1000px;
+    height: 1025px;   
+}
+header section{
+    background-color: yellow;
+    height: 350px;      
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.estilo1{
+	background-color: orange;
+    height: 125px;
+    width: 250px; 
+    float: left; 
+}
+.estilo2{
+	background-color: gray;
+    height: 125px;
+    width: 250px; 
+    float: left;  
+}
+main section{
+    background-color: #a2ff95;   
+    width: 250px;
+    height: 500px; 
+    float: left;  
+}
+article{
+    background-color: white;   
+    width: 500px;
+    height: 500px;
+    float: left;
+   
+}
+aside{
+	background-color: #a2ff95;    
+    width: 250px;
+    height: 500px;
+    float: left;
+}
+footer{    
+    background-color:black;
+    width: 1000px;
+    height: 50px;
+    float: left;
+    color: white;    
+}
+*{
+    margin: 0;
+    padding: 0;    
+    font-family: arial black;
+}
